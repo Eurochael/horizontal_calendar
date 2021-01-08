@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Scaffold(
-        appBar: AppBar(title: Text('Horizontal Calendar Demo')),
+        appBar: AppBar(title: Text('Beaver Calendar Demo')),
         body: Padding(
           padding: const EdgeInsets.symmetric(
             horizontal: 16,
